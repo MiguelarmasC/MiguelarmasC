@@ -1,6 +1,9 @@
-## Hola, soy Miguel Armas. 👋
+<div align="center">
+<h1 align="center">Hola, soy Miguel Armas. 👋</h1>
+</div>
 
-![Logotipo](https://github.com/MiguelarmasC/MiguelarmasC/blob/main/logo-png.png))
+
+![Logotipo](https://github.com/MiguelarmasC/MiguelarmasC/blob/main/logo-png.png)
 
 ## Sobre mi.
 
