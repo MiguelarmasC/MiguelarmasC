@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-- ⭐ Ensamblaje y texteo de ordenadores en tiempo libre ⭐ 
+- ⭐ Ensamblaje y optización de ordenadores en tiempo libre ⭐ 
 - 🎥 Anime y gaming
 - ✏️ Programador Full Stack en proceso 📗
 
