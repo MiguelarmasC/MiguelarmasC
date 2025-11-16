@@ -14,6 +14,7 @@
 **Idiomas**: 
  
   ![Pythom](https://img.shields.io/badge/Python-yellow)
+  ![HTML](https://img.shields.io/badge/HTML-orange)
   
 
 
@@ -27,8 +28,7 @@
 
 **Contactame**
 
-<a href="https://www.instagram.com/miguelarmasc/"><img src="https://img.shields.io/badge/-MiguelarmasC-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+![Email](https://img.shields.io/badge/armax.96%40gmail.com-black)
 
 </p>
 
