@@ -13,8 +13,10 @@
 
 **Idiomas**: 
  
-  ![Pythom](https://img.shields.io/badge/Python-yellow)
   ![HTML](https://img.shields.io/badge/HTML-orange)
+  ![Css](https://img.shields.io/badge/Css-blue)
+  ![Js](https://img.shields.io/badge/Javascript-yellow)
+
   
 
 
